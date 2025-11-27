@@ -1,0 +1,8 @@
+{
+  "name": "圣经人物合影生成器",
+  "description": "上传您的自拍，与您选择的圣经人物跨越时空合影。基于 Gemini 2.5 Flash Image 模型。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
